@@ -10,6 +10,9 @@ The CCUHR-Dataset is a dual-modality dataset containing unaligned RGB and Near-I
 - **Resolution:** 640 × 480 pixels
 - **Frame Rate:** 30 FPS (frames per second)
 
+## How to install CCUHR Dataset
+Due to the limitation of disk szie in Github, please dowload the dataset via following linkage [CCUHR Dataset](mailto\:[ieewnl@ccu.edu.tw](https://ccu365-my.sharepoint.com/:u:/g/personal/ieewnl_office365_ccu_edu_tw/EcBZOCHSeKNMi1gMGkREqk8BnHcT7pjpnzCPprCsHekSUA?e=aKFjyn)) and fill in the password ...
+
 ## Data Structure
 
 The dataset consists of 116 video clips, categorized as follows:
