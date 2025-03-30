@@ -6,12 +6,9 @@ The CCUHR-Dataset is a dual-modality dataset containing unaligned RGB and Near-I
 
 ## Data Collection
 
-- **Number of Subjects:** 22 individuals
-- **Total Video Clips:** 116
 - **Camera Used:** Intel RealSense D435
 - **Resolution:** 640 × 480 pixels
 - **Frame Rate:** 30 FPS (frames per second)
-- **Ground Truth HR Measurement:** BIOPAC PPG 100C
 
 ## Data Structure
 
@@ -28,37 +25,27 @@ The dataset consists of 116 video clips, categorized as follows:
     - Good illumination
     - Facial expression changes or medium head rotation
 
-## Applications
-
-The CCUHR-Dataset can be used for:
-
-- Remote photoplethysmography (rPPG)
-- Heart rate estimation from RGB and NIR modalities
-- Multimodal fusion for physiological signal analysis
-- Head motion and illumination robustness analysis in HR detection
-
 ## Citation
 
 If you use the CCUHR-Dataset in your research, please cite the corresponding paper:
 
 ```
-@article{CCUHR-Dataset,
-  author    = {Author Name},
-  title     = {CCUHR-Dataset: A Dual-Modality Dataset for Remote Heart Rate Estimation},
-  journal   = {Journal Name},
-  year      = {202X},
-  volume    = {XX},
-  number    = {X},
-  pages     = {XX-XX}
+@article{lie2023heart,
+  title={Heart rate estimation from facial image sequences of a dual-modality RGB-NIR camera},
+  author={Lie, Wen-Nung and Le, Dao-Quang and Lai, Chun-Yu and Fang, Yu-Shin},
+  journal={Sensors},
+  volume={23},
+  number={13},
+  pages={6079},
+  year={2023},
+  publisher={MDPI}
 }
 ```
 
 ## Contact
 
-For any questions or access requests, please contact:
+For any questions , please contact:
 
-- **Email:** [example@university.edu](mailto\:example@university.edu)
+- **Email:** [ieewnl@ccu.edu.tw](mailto\:ieewnl@ccu.edu.tw)
 - **Institution:** National Chung Cheng University
-
-給我read讓我可以複製
 
