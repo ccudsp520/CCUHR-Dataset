@@ -29,6 +29,7 @@ args.dataset_path = r"E://My_research/my_Research(the most important)/rPPG_Data/
 args.dataset_name = "motion_10s_path_gt.csv"
 data_path, gt_data = reader(args.dataset_path, args.dataset_name)
 video = Video()
+# read the first video in motion_10s_path_gt.csv
 video.dirname = data_path[0]
 video.start()
 cnt = 0
