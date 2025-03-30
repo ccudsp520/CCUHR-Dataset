@@ -44,7 +44,7 @@ If you use the CCUHR-Dataset in your research, please cite the corresponding pap
 
 ## Contact
 
-For any questions , please contact:
+For any questions , please contact Dr.Wen-Nung Lie:
 
 - **Email:** [ieewnl@ccu.edu.tw](mailto\:ieewnl@ccu.edu.tw)
 - **Institution:** National Chung Cheng University
