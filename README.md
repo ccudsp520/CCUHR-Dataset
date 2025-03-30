@@ -20,7 +20,7 @@ python Dataset_reader.py --root_path CCUHR_Dataset --dataset_name motion_10s_pat
 ```
 Explanation
 
-The CSV file contains all videos in the dataset along with their respective ground truth HR values. You can iterate through the CSV file and use `video_realsense_file.py` to read each video for model evaluation.
+The CSV file contains specific videos in the dataset along with their respective ground truth HR values. You can iterate through the CSV file and use `video_realsense_file.py` to read each video for model evaluation.
 
 ## Data Collection
 
