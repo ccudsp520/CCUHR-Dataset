@@ -5,7 +5,7 @@
 The CCUHR-Dataset is a dual-modality dataset containing unaligned RGB and Near-Infrared (NIR) optical videos for heart rate (HR) estimation. This dataset includes synchronized HR ground truth (GT) measurements obtained using a BIOPAC PPG 100C instrument with a contact-based sensor. The dataset aims to facilitate research in remote photoplethysmography (rPPG) and multimodal HR detection.
 
 ## How to install CCUHR Dataset
-Due to the limitation of disk szie in Github, please dowload the dataset via following hyperlink [CCUHR Dataset](mailto\:[ieewnl@ccu.edu.tw](https://ccu365-my.sharepoint.com/:u:/g/personal/ieewnl_office365_ccu_edu_tw/EcBZOCHSeKNMi1gMGkREqk8BnHcT7pjpnzCPprCsHekSUA?e=aKFjyn)) and type in the password CCUHR520.
+Due to the limitation of disk szie in Github, please dowload the dataset via following hyperlink: [CCUHR Dataset](mailto\:[ieewnl@ccu.edu.tw](https://ccu365-my.sharepoint.com/:u:/g/personal/ieewnl_office365_ccu_edu_tw/EcBZOCHSeKNMi1gMGkREqk8BnHcT7pjpnzCPprCsHekSUA?e=aKFjyn)) and enter the password: `CCUHR520`.
 
 ## How to use CCUHR Dataset
 ### Dataset Reader
